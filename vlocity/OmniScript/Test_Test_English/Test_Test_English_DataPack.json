@@ -7,14 +7,19 @@
     "IsWebCompEnabled": true,
     "Language": "English",
     "Name": "OmniscriptTest",
-    "OmniProcessElement": "Test_Test_English_Element_Step1.json",
+    "OmniProcessElement": [
+        "Test_Test_English_Element_Step1.json",
+        "Test_Test_English_Element_Text1.json",
+        "Test_Test_English_Element_Text2.json",
+        "Test_Test_English_Element_Email1.json"
+    ],
     "OmniProcessType": "OmniScript",
     "PropertySetConfig": "Test_Test_English_PropertySetConfig.json",
     "SubType": "Test",
     "Type": "Test",
-    "UniqueName": "Test_Test_English_1",
+    "UniqueName": "Test_Test_English_2",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "OmniProcess",
     "VlocityRecordSourceKey": "OmniProcess/Test/Test/English",
-    "WebComponentKey": "15c90a8c-a1fa-1f3f-4421-c1bd4e184aae"
+    "WebComponentKey": "3a7cde5f-3f3e-f670-1ae6-04689bc91b4d"
 }

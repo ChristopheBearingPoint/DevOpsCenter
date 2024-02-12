@@ -1,0 +1,7 @@
+Name: Nouvelle version omniscript test
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - OmniScript/Test_Test_English
+VlocityTypesToFetch:
+    - OmniScript
+SalesforceTypesToFetch:

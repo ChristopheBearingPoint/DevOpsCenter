@@ -1,0 +1,85 @@
+{
+    "IsActive": true,
+    "IsOmniScriptEmbeddable": false,
+    "Name": "DeviceName",
+    "OmniProcessId": {
+        "Name": "E-commerce Buyflow OmniScript",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "OmniProcess/Documentation/OmniAnalytics/English",
+        "VlocityRecordSObjectType": "OmniProcess"
+    },
+    "ParentElementId": {
+        "Name": "SelectDevice",
+        "OmniProcessId": {
+            "Name": "E-commerce Buyflow OmniScript",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniProcess/Documentation/OmniAnalytics/English",
+            "VlocityRecordSObjectType": "OmniProcess"
+        },
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "OmniProcessElement/OmniProcess/Documentation/OmniAnalytics/English/SelectDevice",
+        "VlocityRecordSObjectType": "OmniProcessElement"
+    },
+    "ParentElementName": "SelectDevice",
+    "ParentElementType": "Step",
+    "PropertySetConfig": {
+        "HTMLTemplateId": "",
+        "accessibleInFutureSteps": false,
+        "conditionType": "Hide if False",
+        "controlWidth": 12,
+        "controllingField": {
+            "element": "",
+            "source": "",
+            "type": ""
+        },
+        "defaultValue": null,
+        "disOnTplt": false,
+        "help": false,
+        "helpText": "",
+        "hide": false,
+        "inputWidth": 12,
+        "label": "Choose a device",
+        "optionSource": {
+            "source": "",
+            "type": ""
+        },
+        "options": [
+            {
+                "autoAdv": null,
+                "name": "Apple iPhone 7",
+                "value": "Apple iPhone 7"
+            },
+            {
+                "autoAdv": null,
+                "name": "Apple iPhone XR",
+                "value": "Apple iPhone XR"
+            },
+            {
+                "autoAdv": null,
+                "name": "Apple iPhone 11",
+                "value": "Apple iPhone 11"
+            },
+            {
+                "autoAdv": null,
+                "name": "Apple iPhone 8",
+                "value": "Apple iPhone 8"
+            },
+            {
+                "autoAdv": null,
+                "name": "Apple iPhone X",
+                "value": "Apple iPhone X"
+            }
+        ],
+        "readOnly": false,
+        "repeat": false,
+        "repeatClone": false,
+        "repeatLimit": null,
+        "required": false,
+        "show": null,
+        "showInputWidth": false
+    },
+    "Type": "Select",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcessElement",
+    "VlocityRecordSourceKey": "OmniProcessElement/OmniProcess/Documentation/OmniAnalytics/English/DeviceName"
+}

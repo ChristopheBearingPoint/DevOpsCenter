@@ -4,7 +4,7 @@
     <defaultValue>false</defaultValue>
     <description>Ceci est un champs test</description>
     <externalId>false</externalId>
-    <label>Test field</label>
+    <label>Test POC</label>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Checkbox</type>
 </CustomField>

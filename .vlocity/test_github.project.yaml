@@ -1,0 +1,8 @@
+Name: Test Github
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - OmniScript/Documentation_OmniAnalytics_English
+    - OmniScript/Test_Test_English
+VlocityTypesToFetch:
+    - OmniScript
+SalesforceTypesToFetch:
